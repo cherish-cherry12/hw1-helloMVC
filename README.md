@@ -13,6 +13,8 @@
    	- loginform.jsp / registerform.jsp 로 이동 가능
 
 ## model - Customer
+    id, password, name, gender, email 값을 가지고 있는 객체 기본생성자
+    
 
 ## service
     CustomerService
